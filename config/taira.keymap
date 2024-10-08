@@ -43,7 +43,7 @@
  */
 
             bindings = <
-&kp GRAVE  &kp N1    &kp N2        &kp N3            &kp N4    &kp N5                                                                                     &kp N6  &kp N7  &kp N8     &kp N9    &kp N0  &kp SLASH
+&kp ESC    &kp N1    &kp N2        &kp N3            &kp N4    &kp N5                                                                                     &kp N6  &kp N7  &kp N8     &kp N9    &kp N0  &kp SLASH
 &kp TAB    &kp Z     &kp Y         &kp U             &kp A     &kp Q                                                                                      &kp V   &kp B   &kp M      &kp L     &kp F   &kp J
 &mo 1      &kp C     &kp S         &kp I             &kp E     &kp O                                                                                      &kp D   &kp T   &kp N      &kp R     &kp H   &kp MINUS
 &kp LSHFT  &kp P     &kp X         &kp LEFT_BRACKET  &kp APOS  &kp SEMICOLON                 &kp BACKSLASH  &kp BACKSLASH  &kp PG_UP  &kp HOME            &kp W   &kp G   &kp COMMA  &kp DOT   &kp K   &mt RSHFT ENTER
